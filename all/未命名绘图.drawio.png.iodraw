@@ -64,7 +64,7 @@
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-17" value="Index" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="510" y="170" width="44" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-18" value="Coordinator Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
