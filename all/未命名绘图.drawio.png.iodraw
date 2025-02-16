@@ -55,8 +55,11 @@
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-14" value="Root" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="44" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-15" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-15" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-16" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="44" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
