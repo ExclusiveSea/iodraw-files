@@ -202,14 +202,10 @@
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-81" value="Control Signal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="587" y="195" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-84" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-85" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="554" y="640" as="sourcePoint" />
-            <mxPoint x="604" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="604" y="640" />
-              <mxPoint x="554" y="590" />
-            </Array>
+            <mxPoint x="590" y="480" as="sourcePoint" />
+            <mxPoint x="640" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
