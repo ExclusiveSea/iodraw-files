@@ -199,7 +199,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-81" value="Control Signal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-81" value="Control Signal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="587" y="190" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
