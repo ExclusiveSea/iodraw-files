@@ -169,7 +169,7 @@
             <mxPoint x="440" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-73" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-73" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;entryX=0.107;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
