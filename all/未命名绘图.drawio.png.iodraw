@@ -200,7 +200,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-81" value="Control Signal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="587" y="190" width="95" height="30" as="geometry" />
+          <mxGeometry x="587" y="195" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="480" as="sourcePoint" />
+            <mxPoint x="540" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
