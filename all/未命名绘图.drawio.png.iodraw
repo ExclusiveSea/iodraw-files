@@ -178,8 +178,8 @@
             <mxPoint x="478.5" y="403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-77" value="Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="404" y="585" width="60" height="30" as="geometry" />
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-77" value="Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3700CC;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
