@@ -215,9 +215,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-86" value="Object Storage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="483" y="585" width="223" height="60" as="geometry" />
+          <mxGeometry x="478.5" y="600" width="223" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HuYtOXSLz6cHpRmUJyYL-86">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuYtOXSLz6cHpRmUJyYL-86" target="HuYtOXSLz6cHpRmUJyYL-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="500" as="sourcePoint" />
             <mxPoint x="560" y="450" as="targetPoint" />
