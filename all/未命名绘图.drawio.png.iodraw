@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-86" value="Object Storage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="467" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="483" y="585" width="223" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
