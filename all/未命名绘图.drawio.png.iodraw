@@ -77,10 +77,10 @@
           <mxGeometry x="250" y="430" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-28" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="440" width="30" height="30" as="geometry" />
+          <mxGeometry x="380" y="430" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-29" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="30" height="30" as="geometry" />
+          <mxGeometry x="300" y="430" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
