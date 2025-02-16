@@ -163,10 +163,10 @@
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-69" value="Notification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="483" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HuYtOXSLz6cHpRmUJyYL-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.15;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HuYtOXSLz6cHpRmUJyYL-32">
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="454" y="460" as="sourcePoint" />
-            <mxPoint x="504" y="410" as="targetPoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
