@@ -160,6 +160,9 @@
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-68" value="Worker Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HuYtOXSLz6cHpRmUJyYL-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
