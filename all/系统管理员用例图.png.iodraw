@@ -46,6 +46,213 @@
         <mxCell id="PO_O2UsyKy-uJPG-upRq-15" value="产业链权限指派" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-16" value="&lt;font face=&quot;宋体&quot;&gt;普通用户&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-16" target="PO_O2UsyKy-uJPG-upRq-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="220" as="sourcePoint" />
+            <mxPoint x="240" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-18" value="产业链智能预生成模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-19" value="新建产业链" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-20" value="删除产业链" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-18" target="PO_O2UsyKy-uJPG-upRq-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="120" as="sourcePoint" />
+            <mxPoint x="430" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-22" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-21">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-18" target="PO_O2UsyKy-uJPG-upRq-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-24" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-23">
+          <mxGeometry x="-0.115" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-25" value="产业链智能互动编辑模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-26" value="添加节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-27" value="删除节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-28" value="修改节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-29" value="智能添加节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-30" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PO_O2UsyKy-uJPG-upRq-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="305" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-31" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-30">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-25" target="PO_O2UsyKy-uJPG-upRq-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="135" as="sourcePoint" />
+            <mxPoint x="450" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-33" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-32">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PO_O2UsyKy-uJPG-upRq-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="305" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-35" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-34">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-25" target="PO_O2UsyKy-uJPG-upRq-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="155" as="sourcePoint" />
+            <mxPoint x="470" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-37" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-36">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-38" value="产业链节点内容细化模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="445" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-39" value="产业链评估模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-40" value="大模型细化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-41" value="Agent细化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-42" value="知识库检索生成" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="445" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-43" value="联网检索生成" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="510" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-44" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-38" target="PO_O2UsyKy-uJPG-upRq-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="315" as="sourcePoint" />
+            <mxPoint x="445" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-45" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-44">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-46" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-38" target="PO_O2UsyKy-uJPG-upRq-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="325" as="sourcePoint" />
+            <mxPoint x="455" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-47" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-46">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-48" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-41" target="PO_O2UsyKy-uJPG-upRq-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="335" as="sourcePoint" />
+            <mxPoint x="485" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-49" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-48">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-41" target="PO_O2UsyKy-uJPG-upRq-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="345" as="sourcePoint" />
+            <mxPoint x="495" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-51" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-50">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-52" value="指标量化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-53" value="指标计算" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-54" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-39" target="PO_O2UsyKy-uJPG-upRq-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="480" as="sourcePoint" />
+            <mxPoint x="444" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-55" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-54">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-56" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-39" target="PO_O2UsyKy-uJPG-upRq-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="490" as="sourcePoint" />
+            <mxPoint x="454" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-57" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PO_O2UsyKy-uJPG-upRq-56">
+          <mxGeometry x="0.0407" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PO_O2UsyKy-uJPG-upRq-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PO_O2UsyKy-uJPG-upRq-16" target="PO_O2UsyKy-uJPG-upRq-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PO_O2UsyKy-uJPG-upRq-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
