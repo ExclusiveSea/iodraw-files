@@ -35,7 +35,10 @@
           <mxGeometry x="610" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-12" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-13" value="更新人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
