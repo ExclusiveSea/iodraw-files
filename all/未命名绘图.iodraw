@@ -67,6 +67,18 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-22" value="所属版本ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="530" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-23" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-24" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-25" value="更新人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-26" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="380" width="60" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
