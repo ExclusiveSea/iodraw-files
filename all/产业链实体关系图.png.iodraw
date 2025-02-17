@@ -83,19 +83,19 @@
           <mxGeometry x="665" y="420" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-28" value="关系ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="530" width="70" height="37" as="geometry" />
+          <mxGeometry x="750" y="540" width="55" height="27" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-29" value="源节点ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="535" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-30" value="终节点ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="545" width="70" height="32" as="geometry" />
+          <mxGeometry x="640" y="550" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-31" value="关系类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="610" width="65" height="34" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-32" value="所属版本ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="607" width="90" height="37" as="geometry" />
+          <mxGeometry x="670" y="610" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-33" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="680" width="70" height="30" as="geometry" />
