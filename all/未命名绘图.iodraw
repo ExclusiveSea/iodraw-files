@@ -38,10 +38,10 @@
           <mxGeometry x="600" y="177.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-13" value="更新人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="645" y="215" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-14" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="260" width="60" height="25" as="geometry" />
+          <mxGeometry x="655" y="240" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-15" value="版本名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="166.25" width="55" height="30" as="geometry" />
