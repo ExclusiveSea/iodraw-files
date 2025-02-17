@@ -422,8 +422,8 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-100" value="生命周期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="610" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SOAO_cSuNLTYkUchiaSb-101" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="365" width="120" height="80" as="geometry" />
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-101" value="代表公司" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="410" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
