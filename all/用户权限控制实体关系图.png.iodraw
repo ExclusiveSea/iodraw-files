@@ -10,8 +10,8 @@
         <mxCell id="PVDXTTgk709Pc_ic3SZ5-1" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="267.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PVDXTTgk709Pc_ic3SZ5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="90" height="40" as="geometry" />
+        <mxCell id="PVDXTTgk709Pc_ic3SZ5-2" value="权限信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="272.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
