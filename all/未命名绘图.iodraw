@@ -80,7 +80,7 @@
           <mxGeometry x="70" y="617" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-27" value="产业链环节关系信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="392.5" width="150" height="35" as="geometry" />
+          <mxGeometry x="605" y="405" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-28" value="关系ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="460" width="70" height="37" as="geometry" />
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-42" value="包含" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="414" y="392.5" width="80" height="60" as="geometry" />
+          <mxGeometry x="640" y="300" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
