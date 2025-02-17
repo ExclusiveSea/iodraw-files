@@ -26,7 +26,7 @@
           <mxGeometry x="163" y="165" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-9" value="版本描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="515" y="107.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-10" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="230" width="70" height="30" as="geometry" />
@@ -248,7 +248,7 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-65" value="所属产业链名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="197.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SOAO_cSuNLTYkUchiaSb-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="SOAO_cSuNLTYkUchiaSb-2">
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SOAO_cSuNLTYkUchiaSb-20" target="SOAO_cSuNLTYkUchiaSb-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="300" as="sourcePoint" />
             <mxPoint x="490" y="250" as="targetPoint" />
