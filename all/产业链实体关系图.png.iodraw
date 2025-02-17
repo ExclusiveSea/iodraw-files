@@ -83,7 +83,7 @@
           <mxGeometry x="665" y="420" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-28" value="关系ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="540" width="55" height="27" as="geometry" />
+          <mxGeometry x="610" y="473" width="55" height="27" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-29" value="源节点ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="60" height="30" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry x="680" y="610" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-33" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="680" width="70" height="30" as="geometry" />
+          <mxGeometry x="670" y="690" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-34" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="740" width="80" height="30" as="geometry" />
+          <mxGeometry x="580" y="740" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-35" value="更新人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-36" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="780" width="60" height="35" as="geometry" />
+          <mxGeometry x="670" y="780" width="55" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-37" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="215" width="80" height="60" as="geometry" />
