@@ -28,8 +28,8 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-9" value="版本描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SOAO_cSuNLTYkUchiaSb-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="340" width="70" height="30" as="geometry" />
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-10" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
