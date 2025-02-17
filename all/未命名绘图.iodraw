@@ -137,13 +137,8 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-42" value="包含" style="rhombus;whiteSpace=wrap;html=1;rotation=58;" vertex="1" parent="1">
           <mxGeometry x="610" y="310" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SOAO_cSuNLTYkUchiaSb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOAO_cSuNLTYkUchiaSb-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-43" value="包含" style="rhombus;whiteSpace=wrap;html=1;rotation=302;" vertex="1" parent="1">
-          <mxGeometry x="450" y="320" width="80" height="60" as="geometry" />
+          <mxGeometry x="450" y="310" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
