@@ -85,6 +85,9 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-28" value="关系ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="460" width="70" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="590" width="70" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
