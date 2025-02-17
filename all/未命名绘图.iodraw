@@ -79,8 +79,8 @@
         <mxCell id="SOAO_cSuNLTYkUchiaSb-26" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="617" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="SOAO_cSuNLTYkUchiaSb-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-27" value="产业链环节关系信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="465" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
