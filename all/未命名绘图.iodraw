@@ -11,7 +11,7 @@
           <mxGeometry x="505" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-3" value="产业链名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="177.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-4" value="产业链所属领域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="50" width="120" height="40" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="240" y="300" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-8" value="产业链描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="180" y="176.25" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-9" value="版本描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="80" height="40" as="geometry" />
