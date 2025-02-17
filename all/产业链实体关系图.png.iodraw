@@ -68,13 +68,13 @@
           <mxGeometry x="230" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-23" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="490" width="70" height="30" as="geometry" />
+          <mxGeometry x="290" y="495" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-24" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="535" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-25" value="更新人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="567" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="505" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-26" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="617" width="60" height="35" as="geometry" />
