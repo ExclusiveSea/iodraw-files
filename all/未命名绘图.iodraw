@@ -171,7 +171,7 @@
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-54" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SOAO_cSuNLTYkUchiaSb-48">
           <mxGeometry x="0.2257" y="-3" relative="1" as="geometry">
-            <mxPoint x="5" y="14" as="offset" />
+            <mxPoint x="5" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-49" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
