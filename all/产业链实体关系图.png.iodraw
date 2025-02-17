@@ -420,7 +420,7 @@
           <mxGeometry x="-50" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-100" value="生命周期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="610" width="60" height="40" as="geometry" />
+          <mxGeometry x="40" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOAO_cSuNLTYkUchiaSb-101" value="代表公司" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="425" width="70" height="35" as="geometry" />
