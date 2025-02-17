@@ -491,7 +491,7 @@
             <mxPoint x="220" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SOAO_cSuNLTYkUchiaSb-116" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SOAO_cSuNLTYkUchiaSb-116" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOAO_cSuNLTYkUchiaSb-96" target="SOAO_cSuNLTYkUchiaSb-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="660" as="sourcePoint" />
             <mxPoint x="220" y="610" as="targetPoint" />
