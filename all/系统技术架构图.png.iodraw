@@ -73,8 +73,14 @@
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-46" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="200" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-47" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="103" width="70" height="30" as="geometry" />
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-47" value="Docker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
