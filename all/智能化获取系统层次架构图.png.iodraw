@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-37" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="s5saznzGKYcE0H0AA1qR-37" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="395" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
