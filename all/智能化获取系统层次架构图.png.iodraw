@@ -28,14 +28,15 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-16" value="数据层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="s5saznzGKYcE0H0AA1qR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414.0000000000002" y="155" as="sourcePoint" />
-            <mxPoint x="414.0000000000002" y="205" as="targetPoint" />
+            <mxPoint x="414.0000000000002" y="153" as="sourcePoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="155" />
+              <mxPoint x="380" y="153" />
               <mxPoint x="380" y="200" />
               <mxPoint x="414" y="200" />
+              <mxPoint x="414" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
