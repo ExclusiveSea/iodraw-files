@@ -44,13 +44,13 @@
           <mxGeometry x="414" y="310" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-23" value="智能添加节点提示设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="370" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="360" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-24" value="节点详细内容生成算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="420" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="410" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-25" value="产业链评估算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="470" width="90" height="30" as="geometry" />
+          <mxGeometry x="414" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-26" value="知识向量存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="540" width="90" height="30" as="geometry" />
