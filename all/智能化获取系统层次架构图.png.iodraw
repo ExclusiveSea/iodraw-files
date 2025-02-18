@@ -42,7 +42,7 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-19" value="用户信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="180" width="134" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;opacity=0;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-21" target="s5saznzGKYcE0H0AA1qR-49">
+        <mxCell id="s5saznzGKYcE0H0AA1qR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-21" target="s5saznzGKYcE0H0AA1qR-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-21" value="搜索引擎算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-49" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s5saznzGKYcE0H0AA1qR-49" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="185" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
