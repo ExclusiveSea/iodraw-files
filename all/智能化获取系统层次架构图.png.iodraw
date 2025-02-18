@@ -28,18 +28,6 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-16" value="数据层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414.0000000000002" y="153" as="sourcePoint" />
-            <mxPoint x="370" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="153" />
-              <mxPoint x="380" y="200" />
-              <mxPoint x="414" y="200" />
-              <mxPoint x="414" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-17" value="产业链管理页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="135" width="134" height="30" as="geometry" />
         </mxCell>
@@ -109,6 +97,12 @@
               <mxPoint x="380" y="175" />
               <mxPoint x="380" y="100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5saznzGKYcE0H0AA1qR-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="250" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
