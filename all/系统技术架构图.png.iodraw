@@ -31,7 +31,7 @@
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-34" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="95" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-35" value="页面层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-35" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="95" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
