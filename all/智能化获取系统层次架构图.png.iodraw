@@ -86,14 +86,10 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-39" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="s5saznzGKYcE0H0AA1qR-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379.9999999999998" y="175" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="s5saznzGKYcE0H0AA1qR-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379.9999999999998" y="175" as="sourcePoint" />
+        <mxCell id="s5saznzGKYcE0H0AA1qR-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="250" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
