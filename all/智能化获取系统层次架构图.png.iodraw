@@ -19,6 +19,9 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-15" value="业务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s5saznzGKYcE0H0AA1qR-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-16" target="s5saznzGKYcE0H0AA1qR-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-16" value="数据层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="70" height="30" as="geometry" />
         </mxCell>
@@ -70,6 +73,9 @@
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-37" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s5saznzGKYcE0H0AA1qR-39" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="635" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
