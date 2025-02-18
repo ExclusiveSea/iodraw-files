@@ -32,13 +32,13 @@
           <mxGeometry x="280" y="530" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-17" value="产业链页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="130" width="84" height="30" as="geometry" />
+          <mxGeometry x="414" y="130" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-19" value="用户信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="414" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-21" value="搜索引擎算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="265" width="90" height="30" as="geometry" />
+          <mxGeometry x="414" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-22" value="产业链智能预生成算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="320" width="126" height="30" as="geometry" />
