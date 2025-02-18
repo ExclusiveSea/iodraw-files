@@ -106,8 +106,8 @@
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-58" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="250" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-60" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="113" width="70" height="30" as="geometry" />
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-60" value="Milvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
