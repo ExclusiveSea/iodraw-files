@@ -55,14 +55,10 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-30" value="产业链节点存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="675" width="134" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="s5saznzGKYcE0H0AA1qR-33" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="380" />
-              <mxPoint x="390" y="330" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
