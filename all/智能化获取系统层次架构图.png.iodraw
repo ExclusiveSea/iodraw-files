@@ -7,9 +7,6 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-1" value="智能化获取系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-5" target="s5saznzGKYcE0H0AA1qR-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-5" value="知识库构建页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="80" width="134" height="30" as="geometry" />
         </mxCell>
