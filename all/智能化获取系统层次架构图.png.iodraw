@@ -25,8 +25,11 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-13" value="页面层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-15" value="页面层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="170" width="70" height="30" as="geometry" />
+        <mxCell id="s5saznzGKYcE0H0AA1qR-15" value="业务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5saznzGKYcE0H0AA1qR-16" value="页面层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
