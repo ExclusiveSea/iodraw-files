@@ -65,7 +65,7 @@
           <mxGeometry x="280" y="350" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-45" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="350" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="410" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-46" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="400" width="70" height="30" as="geometry" />
