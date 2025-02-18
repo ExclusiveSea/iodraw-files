@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-5" value="知识库构建页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="60" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-13" value="页面层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="70" height="30" as="geometry" />
@@ -28,13 +28,8 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-16" value="数据层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459.9999999999998" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-17" value="产业链管理页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="160" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="120" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-19" value="用户信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="210" width="134" height="30" as="geometry" />
