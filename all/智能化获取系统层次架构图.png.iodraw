@@ -64,8 +64,8 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-29" value="用户数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="680" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-30" value="知识库构建页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="230" width="90" height="30" as="geometry" />
+        <mxCell id="s5saznzGKYcE0H0AA1qR-30" value="产业链节点存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
