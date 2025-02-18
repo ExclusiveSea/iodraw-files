@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-5" value="知识库构建页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="80" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="110" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-13" value="页面层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="70" height="30" as="geometry" />
@@ -37,13 +37,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-17" value="产业链页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="130" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="160" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-19" value="用户信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="180" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="210" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-21" value="搜索引擎算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="230" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="260" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-22" value="产业链智能预生成算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="310" width="134" height="30" as="geometry" />
