@@ -52,7 +52,7 @@
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-41" value="Nodejs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="93" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-42" value="" style="endArrow=none;html=1;rounded=0;jumpSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="416" y="130" as="sourcePoint" />
             <mxPoint x="416" y="240" as="targetPoint" />
