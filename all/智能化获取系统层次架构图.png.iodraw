@@ -28,6 +28,9 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-16" value="数据层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s5saznzGKYcE0H0AA1qR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-17" target="s5saznzGKYcE0H0AA1qR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-17" value="产业链管理页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="135" width="134" height="30" as="geometry" />
         </mxCell>
