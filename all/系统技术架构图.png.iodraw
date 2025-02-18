@@ -59,16 +59,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-43" value="Spring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="350" width="70" height="30" as="geometry" />
+          <mxGeometry x="200" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-44" value="SpringMVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="70" height="30" as="geometry" />
+          <mxGeometry x="300" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-45" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="70" height="30" as="geometry" />
+          <mxGeometry x="200" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-46" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="300" y="200" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
