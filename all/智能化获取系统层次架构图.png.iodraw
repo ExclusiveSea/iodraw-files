@@ -58,8 +58,8 @@
         <mxCell id="s5saznzGKYcE0H0AA1qR-27" value="网络资源存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="585" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5saznzGKYcE0H0AA1qR-28" value="知识库构建页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="210" width="90" height="30" as="geometry" />
+        <mxCell id="s5saznzGKYcE0H0AA1qR-28" value="产业链存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
