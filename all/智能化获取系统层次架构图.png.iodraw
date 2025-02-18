@@ -29,7 +29,12 @@
           <mxGeometry x="280" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5saznzGKYcE0H0AA1qR-17" target="s5saznzGKYcE0H0AA1qR-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="145" />
+              <mxPoint x="370" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-17" value="产业链页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="130" width="134" height="30" as="geometry" />
