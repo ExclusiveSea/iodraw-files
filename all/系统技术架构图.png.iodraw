@@ -86,22 +86,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-51" value="Selenium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="542" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-52" value="Firecrawl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="632" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-53" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="722" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-54" value="LangChain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="70" height="30" as="geometry" />
+          <mxGeometry x="542" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-55" value="LangGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="390" width="70" height="30" as="geometry" />
+          <mxGeometry x="632" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-56" value="Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="70" height="30" as="geometry" />
+          <mxGeometry x="722" y="200" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
