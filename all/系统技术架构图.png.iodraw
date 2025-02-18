@@ -4,63 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-36" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="93" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-37" value="CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="93" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-38" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="93" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-39" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="93" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-40" value="ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="632" y="93" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-41" value="Nodejs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="93" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-43" value="Spring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="205" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-44" value="SpringMVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="205" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-45" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="245" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-46" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="245" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-47" value="Docker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="245" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-51" value="Selenium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="205" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-52" value="Firecrawl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="632" y="205" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-53" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="722" y="205" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-54" value="LangChain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="245" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-55" value="LangGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="632" y="245" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-56" value="Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="722" y="245" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-62" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5K8OPjvH2g7QSLGk_0w5-63" value="Milvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="320" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-66" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="80" width="750" height="280.98" as="geometry" />
         </mxCell>
@@ -112,6 +55,24 @@
             <mxPoint x="375" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-36" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-65">
+          <mxGeometry x="120" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-37" value="CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-65">
+          <mxGeometry x="228" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-38" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-65">
+          <mxGeometry x="336" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-39" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-65">
+          <mxGeometry x="444" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-40" value="ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-65">
+          <mxGeometry x="552" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-41" value="Nodejs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-65">
+          <mxGeometry x="660" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-33" value="页面层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-66">
           <mxGeometry x="15" y="20" width="60" height="30" as="geometry" />
         </mxCell>
@@ -120,6 +81,45 @@
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-35" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="5K8OPjvH2g7QSLGk_0w5-66">
           <mxGeometry x="15" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-43" value="Spring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="205" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-44" value="SpringMVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="205" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-45" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-46" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-47" value="Docker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-51" value="Selenium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542" y="205" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-52" value="Firecrawl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="205" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-53" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="722" y="205" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-54" value="LangChain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-55" value="LangGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-56" value="Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="722" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-62" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K8OPjvH2g7QSLGk_0w5-63" value="Milvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="320" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
