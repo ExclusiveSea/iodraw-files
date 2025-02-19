@@ -136,7 +136,7 @@
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-38" value="智能添加节点" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-40" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-40" value="产品描述" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
