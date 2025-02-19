@@ -151,8 +151,11 @@
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-44" value="发展趋势及关键技术" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="480" y="585" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-45" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="20" y="560" width="30" height="120" as="geometry" />
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-45" value="产品工艺" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-46" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
