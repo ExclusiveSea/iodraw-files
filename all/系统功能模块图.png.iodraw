@@ -141,7 +141,7 @@
           <mxGeometry x="550" y="440" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-51" value="节点内容编辑" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="590" y="440" width="30" height="120" as="geometry" />
+          <mxGeometry x="590" y="440" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-52" value="用户信息管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="887" y="440" width="30" height="120" as="geometry" />
