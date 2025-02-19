@@ -315,12 +315,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bP5y7fIsurZIOc2GUaOD-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bP5y7fIsurZIOc2GUaOD-13" target="bP5y7fIsurZIOc2GUaOD-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="760" as="sourcePoint" />
-            <mxPoint x="430" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bP5y7fIsurZIOc2GUaOD-77" value="用户权限管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
