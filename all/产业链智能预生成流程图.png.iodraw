@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-23" value="将所有产业链节点及上下层关系存入数据库中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="140" height="50" as="geometry" />
+          <mxGeometry x="400" y="220" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2TK-STUWdFAO3x5S_sY-18" target="Y2TK-STUWdFAO3x5S_sY-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,7 +117,7 @@
             <mxPoint x="210" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="110" y="580" />
-              <mxPoint x="110" y="500" />
+              <mxPoint x="110" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
