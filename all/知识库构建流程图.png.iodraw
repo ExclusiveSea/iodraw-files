@@ -83,14 +83,8 @@
         <mxCell id="re2RwozJSJPV2L0rAovg-21" value="所有网页是否爬取完毕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="833.5" y="200" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="re2RwozJSJPV2L0rAovg-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="re2RwozJSJPV2L0rAovg-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="566.5" y="400" as="sourcePoint" />
-            <mxPoint x="616.5" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="re2RwozJSJPV2L0rAovg-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="re2RwozJSJPV2L0rAovg-27" value="获得相关网页链接列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="130" height="40" as="geometry" />
