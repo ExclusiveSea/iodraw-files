@@ -49,7 +49,7 @@
             <mxPoint x="400" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="320" />
-              <mxPoint x="590" y="320" />
+              <mxPoint x="585" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-38" value="智能添加节点" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-50" value="智能添加节点" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
