@@ -114,8 +114,8 @@
             <mxPoint x="210" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y2TK-STUWdFAO3x5S_sY-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="Y2TK-STUWdFAO3x5S_sY-23" value="将所有产业链节点及上下层关系存入数据库中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
