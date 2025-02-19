@@ -84,18 +84,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iwjTnjZ5OjpotJwd9LH3-12" target="iwjTnjZ5OjpotJwd9LH3-25">
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iwjTnjZ5OjpotJwd9LH3-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="510" as="sourcePoint" />
-            <mxPoint x="-130" y="450" as="targetPoint" />
+            <mxPoint x="-112.5" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-95" y="410" />
               <mxPoint x="-115" y="410" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-25" value="网络资源构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="450" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-26" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-90" y="450" width="30" height="120" as="geometry" />
