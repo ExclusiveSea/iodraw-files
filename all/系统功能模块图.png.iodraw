@@ -140,27 +140,6 @@
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-40" value="产品描述" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="460" y="440" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-41" value="生命周期" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="495" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-42" value="代表公司" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="530" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-43" value="代表产品" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="570" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-44" value="发展趋势及关键技术" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="610" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-45" value="产品工艺" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="653" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-46" value="市场需求" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="690" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-47" value="竞争格局" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="730" y="440" width="30" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
