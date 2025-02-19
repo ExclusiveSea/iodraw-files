@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="Tessa Miller&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;CFO&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="iwjTnjZ5OjpotJwd9LH3-1">
+        <UserObject label="" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="iwjTnjZ5OjpotJwd9LH3-1">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="1">
             <mxGeometry x="310" y="220" width="180" height="70" as="geometry" />
           </mxCell>
