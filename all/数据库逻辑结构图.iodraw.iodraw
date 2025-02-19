@@ -228,10 +228,10 @@
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-73" value="update_user:&lt;span style=&quot;font-size: 12px;&quot;&gt;varchar(255)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
           <mxGeometry y="180" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0LA9iNYX3q2FdoUiKeUV-72" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
+        <mxCell id="0LA9iNYX3q2FdoUiKeUV-72" value="create_time:timestamp" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
           <mxGeometry y="210" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0LA9iNYX3q2FdoUiKeUV-71" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
+        <mxCell id="0LA9iNYX3q2FdoUiKeUV-71" value="create_user:&lt;span style=&quot;font-size: 12px;&quot;&gt;varchar(255)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
           <mxGeometry y="240" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
