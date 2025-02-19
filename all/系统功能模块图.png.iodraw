@@ -128,7 +128,10 @@
           <mxGeometry x="35" y="450" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-36" value="产业链权限指派" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="100" y="450" width="30" height="120" as="geometry" />
+          <mxGeometry x="80" y="450" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-37" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="490" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
