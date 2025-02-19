@@ -40,6 +40,9 @@
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-17" value="产业链评估模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-18" value="用户信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="124" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
