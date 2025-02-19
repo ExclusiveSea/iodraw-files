@@ -151,15 +151,10 @@
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-49" value="update_user:&lt;span style=&quot;font-size: 12px;&quot;&gt;varchar(255)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-42">
           <mxGeometry y="266" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0LA9iNYX3q2FdoUiKeUV-52" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERzeroToOne;rounded=0;fontFamily=Helvetica;fontColor=default;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="0LA9iNYX3q2FdoUiKeUV-52" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERzeroToOne;rounded=0;fontFamily=Helvetica;fontColor=default;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.504;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0LA9iNYX3q2FdoUiKeUV-30" target="0LA9iNYX3q2FdoUiKeUV-42">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="750" y="370" as="sourcePoint" />
             <mxPoint x="795.68" y="544.48" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="380" />
-              <mxPoint x="750" y="380" />
-              <mxPoint x="759.68" y="404.48" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
