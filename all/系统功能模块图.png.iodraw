@@ -98,7 +98,7 @@
           <mxGeometry x="-130" y="450" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-26" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="450" width="30" height="120" as="geometry" />
+          <mxGeometry x="-90" y="450" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-27" value="产业链智能生成" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="200" y="450" width="30" height="120" as="geometry" />
