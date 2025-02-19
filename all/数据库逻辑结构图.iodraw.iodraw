@@ -106,7 +106,7 @@
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-37" value="ich_id:&lt;span style=&quot;font-size: 12px;&quot;&gt;varchar(64)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-34">
           <mxGeometry y="86" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0LA9iNYX3q2FdoUiKeUV-38" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-34">
+        <mxCell id="0LA9iNYX3q2FdoUiKeUV-38" value="create_time:timestamp" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-34">
           <mxGeometry y="116" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
