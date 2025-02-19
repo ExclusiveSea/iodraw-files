@@ -16,7 +16,7 @@
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-3" value="是否存在目标产业链" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y2TK-STUWdFAO3x5S_sY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y2TK-STUWdFAO3x5S_sY-3">
+        <mxCell id="Y2TK-STUWdFAO3x5S_sY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2TK-STUWdFAO3x5S_sY-3" target="Y2TK-STUWdFAO3x5S_sY-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="210" y="210" as="targetPoint" />
@@ -25,8 +25,8 @@
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-5" value="新建产业链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="127.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Y2TK-STUWdFAO3x5S_sY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="Y2TK-STUWdFAO3x5S_sY-6" value="新建产业链版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
