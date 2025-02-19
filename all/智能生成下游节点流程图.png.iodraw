@@ -38,7 +38,7 @@
           <mxGeometry x="120" y="330" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sSdwgiMPV_T9EGJGpbou-9" value="将生成节点及节点与上游节点关系存入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="117.5" y="420" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
