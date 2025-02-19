@@ -222,7 +222,7 @@
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-70" value="relationship_id:&lt;span style=&quot;font-size: 12px;&quot;&gt;varchar(64)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0LA9iNYX3q2FdoUiKeUV-69" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
+        <mxCell id="0LA9iNYX3q2FdoUiKeUV-69" value="update_time:timestamp" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-65">
           <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
