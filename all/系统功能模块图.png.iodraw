@@ -108,8 +108,11 @@
             <mxPoint x="170" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-29" value="产业链智能生成" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="125" y="460" width="30" height="120" as="geometry" />
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-29" value="节点管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="255" y="450" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-30" value="产业链智能生成" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
