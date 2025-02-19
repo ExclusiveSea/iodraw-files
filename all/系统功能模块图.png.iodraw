@@ -34,8 +34,11 @@
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-15" value="产业链智能互动编辑模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-16" value="产业链智能预生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-16" value="产业链节点内容细化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-17" value="产业链智能预生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
