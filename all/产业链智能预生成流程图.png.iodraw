@@ -121,6 +121,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y2TK-STUWdFAO3x5S_sY-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
