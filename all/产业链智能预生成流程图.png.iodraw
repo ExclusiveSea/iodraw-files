@@ -86,8 +86,8 @@
             <mxPoint x="210" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y2TK-STUWdFAO3x5S_sY-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="Y2TK-STUWdFAO3x5S_sY-18" value="为第一层的所有节点构造下一层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
