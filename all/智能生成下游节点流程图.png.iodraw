@@ -25,11 +25,14 @@
         <mxCell id="sSdwgiMPV_T9EGJGpbou-5" value="记录上游节点列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sSdwgiMPV_T9EGJGpbou-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sSdwgiMPV_T9EGJGpbou-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSdwgiMPV_T9EGJGpbou-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="360" as="sourcePoint" />
-            <mxPoint x="190" y="310" as="targetPoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sSdwgiMPV_T9EGJGpbou-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
