@@ -88,16 +88,16 @@
             <mxPoint x="220" y="510" as="sourcePoint" />
             <mxPoint x="-130" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-110" y="410" />
+              <mxPoint x="-95" y="410" />
               <mxPoint x="-130" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-25" value="网络资源构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="450" width="30" height="120" as="geometry" />
+          <mxGeometry x="-130" y="450" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-26" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="450" width="30" height="120" as="geometry" />
+          <mxGeometry x="-90" y="450" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-27" value="产业链智能生成" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="200" y="450" width="30" height="120" as="geometry" />
