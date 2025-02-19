@@ -80,14 +80,14 @@
             <mxPoint x="80" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y2TK-STUWdFAO3x5S_sY-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y2TK-STUWdFAO3x5S_sY-13">
+        <mxCell id="Y2TK-STUWdFAO3x5S_sY-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2TK-STUWdFAO3x5S_sY-13" target="Y2TK-STUWdFAO3x5S_sY-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="480" as="sourcePoint" />
             <mxPoint x="210" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-18" value="为第一层的所有节点构造下一层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
