@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="re2RwozJSJPV2L0rAovg-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="re2RwozJSJPV2L0rAovg-27" value="获得相关网页链接列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="130" height="40" as="geometry" />
