@@ -121,8 +121,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-34" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry y="450" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
