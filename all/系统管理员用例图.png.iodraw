@@ -26,10 +26,10 @@
           <mxGeometry x="620" y="755" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-8" value="新建用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="895" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="895" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-9" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="945" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="950" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-11" value="编辑用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="995" width="80" height="40" as="geometry" />
