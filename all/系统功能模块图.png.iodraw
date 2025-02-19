@@ -139,8 +139,11 @@
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-40" value="产品描述" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iwjTnjZ5OjpotJwd9LH3-41" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="520" width="30" height="120" as="geometry" />
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-41" value="生命周期" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="590" y="430" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwjTnjZ5OjpotJwd9LH3-42" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="530" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
