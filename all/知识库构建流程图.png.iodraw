@@ -71,14 +71,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="re2RwozJSJPV2L0rAovg-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="re2RwozJSJPV2L0rAovg-15">
+        <mxCell id="re2RwozJSJPV2L0rAovg-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="re2RwozJSJPV2L0rAovg-15" target="re2RwozJSJPV2L0rAovg-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="350" as="sourcePoint" />
             <mxPoint x="412" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="re2RwozJSJPV2L0rAovg-19" value="异步爬取相关网页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="352" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
