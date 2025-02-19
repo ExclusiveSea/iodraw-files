@@ -81,7 +81,7 @@
           <mxGeometry x="352" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="re2RwozJSJPV2L0rAovg-21" value="所有网页是否爬取完毕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="280" width="106" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
