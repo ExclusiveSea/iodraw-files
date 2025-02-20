@@ -61,7 +61,7 @@
         <mxCell id="WCVnCbvwH2kYVIImCpo_-34" value="查找网页详细内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="900" y="313.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WCVnCbvwH2kYVIImCpo_-35" value="转化Markdown格式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WCVnCbvwH2kYVIImCpo_-35" value="转化Markdown格式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="257.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-36" value="记录各项内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
