@@ -46,6 +46,9 @@
         <mxCell id="WCVnCbvwH2kYVIImCpo_-29" value="Markdown" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="710" y="260" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WCVnCbvwH2kYVIImCpo_-30" value="输出" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="267.5" width="70" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
