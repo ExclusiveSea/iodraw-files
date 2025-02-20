@@ -61,8 +61,8 @@
         <mxCell id="WCVnCbvwH2kYVIImCpo_-35" value="转化Markdown格式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="584" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WCVnCbvwH2kYVIImCpo_-36" value="记录各项内容及文件ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="700" width="135" height="40" as="geometry" />
+        <mxCell id="WCVnCbvwH2kYVIImCpo_-36" value="记录各项内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="120" height="320" as="geometry" />
