@@ -22,7 +22,7 @@
         <mxCell id="CEkUGWRYNjaflK8LzqOO-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="60" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CEkUGWRYNjaflK8LzqOO-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CEkUGWRYNjaflK8LzqOO-9" value="发布时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
