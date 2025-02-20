@@ -20,7 +20,7 @@
           <mxGeometry x="390" y="257.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
-          <mxGeometry x="521.88" y="150" width="46.25" height="60" as="geometry" />
+          <mxGeometry x="520" y="150" width="48.13" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="516.25" y="245" width="67.5" height="70" as="geometry" />
