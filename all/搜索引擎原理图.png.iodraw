@@ -7,7 +7,7 @@
         <mxCell id="WCVnCbvwH2kYVIImCpo_-1" value="搜索关键词" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WCVnCbvwH2kYVIImCpo_-2" value="选择" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="WCVnCbvwH2kYVIImCpo_-2" value="输入" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="257.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -29,7 +29,7 @@
           <mxGeometry x="290" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="60" height="45" as="geometry" />
+          <mxGeometry x="400" y="257.5" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
