@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-94" value="represent_company" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="120" y="820" width="230" height="266" as="geometry" />
+          <mxGeometry x="-60" y="810" width="230" height="266" as="geometry" />
         </mxCell>
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-108" value="create_user:&lt;span style=&quot;font-size: 12px;&quot;&gt;varchar(255)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fontStyle=0;" vertex="1" parent="0LA9iNYX3q2FdoUiKeUV-94">
           <mxGeometry y="26" width="230" height="30" as="geometry" />
@@ -395,6 +395,9 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="360" y="910" as="sourcePoint" />
             <mxPoint x="-340" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="900" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0LA9iNYX3q2FdoUiKeUV-117" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERzeroToOne;rounded=0;fontFamily=Helvetica;fontColor=default;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0LA9iNYX3q2FdoUiKeUV-114" target="0LA9iNYX3q2FdoUiKeUV-116">
