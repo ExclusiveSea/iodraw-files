@@ -53,10 +53,10 @@
           <mxGeometry x="340" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-33" value="抓取网页内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="425" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-34" value="查找网页详细内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-35" value="转化Markdown格式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="540" width="120" height="40" as="geometry" />
