@@ -31,7 +31,7 @@
         <mxCell id="WCVnCbvwH2kYVIImCpo_-18" value="PDF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=20;" vertex="1" parent="WCVnCbvwH2kYVIImCpo_-19">
           <mxGeometry y="30" width="67.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WCVnCbvwH2kYVIImCpo_-21" value="PPT" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="WCVnCbvwH2kYVIImCpo_-21" value="PPT" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;verticalAlign=bottom;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="500" y="410" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
