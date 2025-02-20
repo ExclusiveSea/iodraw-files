@@ -59,7 +59,7 @@
           <mxGeometry x="480" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-35" value="转化Markdown格式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WCVnCbvwH2kYVIImCpo_-36" value="记录爬取文件ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="120" height="40" as="geometry" />
