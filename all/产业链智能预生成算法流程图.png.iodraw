@@ -772,7 +772,7 @@
           <mxGeometry x="270" y="280" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-234" value="对每层的每个节点进行下一层生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="399" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="313" y="470" width="201" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
