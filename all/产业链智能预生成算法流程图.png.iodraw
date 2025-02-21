@@ -538,6 +538,9 @@
             <mxPoint x="90" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-151" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=28;" vertex="1" parent="JnQmU3idOo0CUtrQMRvo-152">
+          <mxGeometry x="26" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-1" value="产业链所属领域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="120" height="30" as="geometry" />
         </mxCell>
@@ -571,9 +574,6 @@
             <mxPoint x="300" y="180" as="sourcePoint" />
             <mxPoint x="330.3352383607471" y="179.65009265484832" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-151" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
