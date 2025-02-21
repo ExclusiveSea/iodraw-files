@@ -784,10 +784,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-237" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="315" width="20" height="20" as="geometry" />
+          <mxGeometry x="100" y="285" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-238" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="365" width="20" height="20" as="geometry" />
+          <mxGeometry x="110" y="360" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-239" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="80" y="415" width="20" height="20" as="geometry" />
