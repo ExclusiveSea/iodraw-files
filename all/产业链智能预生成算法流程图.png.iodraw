@@ -10,7 +10,7 @@
         <mxCell id="JnQmU3idOo0CUtrQMRvo-2" value="产业链名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="60" height="130" as="geometry" />
         </mxCell>
       </root>
