@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-280" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="480" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-226" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="347.5" width="90" height="25" as="geometry" />
         </mxCell>
@@ -787,7 +784,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-277" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="300" width="187.5" height="139.5" as="geometry" />
+          <mxGeometry x="40" y="300" width="198.75" height="174.75" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-237" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;rotation=90;container=0;" vertex="1" parent="JnQmU3idOo0CUtrQMRvo-277">
           <mxGeometry x="121.5" y="62" width="20" height="20" as="geometry" />
@@ -953,6 +950,9 @@
             <mxPoint x="-92" y="30" as="sourcePoint" />
             <mxPoint x="-42" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-280" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="JnQmU3idOo0CUtrQMRvo-277">
+          <mxGeometry x="-11.25" y="-35.25" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-278" value="最终产业链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93.75" y="450" width="80" height="30" as="geometry" />
