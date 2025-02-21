@@ -572,7 +572,7 @@
             <mxPoint x="330.3352383607471" y="179.65009265484832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-161" value="___&lt;div&gt;___&lt;/div&gt;&lt;div&gt;___&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-161" value="___&lt;div&gt;___&lt;/div&gt;&lt;div&gt;___&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="50" height="55" as="geometry" />
         </mxCell>
       </root>
