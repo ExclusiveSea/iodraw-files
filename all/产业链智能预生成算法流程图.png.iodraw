@@ -793,13 +793,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-278" value="最终产业链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="450" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-282" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="460" width="200" height="160" as="geometry" />
+          <mxGeometry x="80" y="449.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-287" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="300" width="187.5" height="139.5" as="geometry" />
+          <mxGeometry x="30" y="300" width="193.75" height="149.75" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-237" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;rotation=90;container=0;" vertex="1" parent="JnQmU3idOo0CUtrQMRvo-287">
           <mxGeometry x="121.5" y="62" width="20" height="20" as="geometry" />
@@ -965,6 +962,9 @@
             <mxPoint x="-92" y="30" as="sourcePoint" />
             <mxPoint x="-42" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-282" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="JnQmU3idOo0CUtrQMRvo-287">
+          <mxGeometry x="-6.25" y="-10.25" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
