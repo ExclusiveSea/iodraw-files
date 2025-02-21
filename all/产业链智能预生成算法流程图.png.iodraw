@@ -573,7 +573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-151" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="165" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
