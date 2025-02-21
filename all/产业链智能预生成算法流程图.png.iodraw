@@ -663,10 +663,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-202" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-202" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="369" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-203" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-203" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="420" y="350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-205" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnQmU3idOo0CUtrQMRvo-198" target="JnQmU3idOo0CUtrQMRvo-202">
@@ -680,6 +680,9 @@
             <mxPoint x="280" y="510" as="sourcePoint" />
             <mxPoint x="330" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-208" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="386" y="340" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
