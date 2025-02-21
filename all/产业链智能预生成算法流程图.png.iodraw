@@ -547,10 +547,10 @@
         <mxCell id="JnQmU3idOo0CUtrQMRvo-2" value="产业链名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnQmU3idOo0CUtrQMRvo-1" target="JnQmU3idOo0CUtrQMRvo-7">
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnQmU3idOo0CUtrQMRvo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="180" as="sourcePoint" />
-            <mxPoint x="220" y="180" as="targetPoint" />
+            <mxPoint x="230.13636363636374" y="179.41406768414072" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="155" />
               <mxPoint x="190" y="180" />
@@ -566,12 +566,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-7" value="Prompt" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="57" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="JnQmU3idOo0CUtrQMRvo-7">
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="180" as="sourcePoint" />
+            <mxPoint x="286.8636363636365" y="179.2566844919786" as="sourcePoint" />
             <mxPoint x="330.3352383607471" y="179.65009265484832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
