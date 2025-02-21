@@ -600,7 +600,10 @@
           <mxGeometry x="558" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-174" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="573" y="230" width="30" height="30" as="geometry" />
+          <mxGeometry x="573" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-175" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="573" y="280" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
