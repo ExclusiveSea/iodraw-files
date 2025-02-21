@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-152" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="287" y="260" width="160" height="160" as="geometry" />
+          <mxGeometry x="333" y="110" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;strokeColor=#FFB570;" vertex="1" parent="JnQmU3idOo0CUtrQMRvo-152">
           <mxGeometry width="160" height="160" as="geometry" />
@@ -573,7 +573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-151" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="340" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
