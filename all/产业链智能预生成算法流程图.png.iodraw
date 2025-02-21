@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JnQmU3idOo0CUtrQMRvo-280" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-226" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="347.5" width="90" height="25" as="geometry" />
         </mxCell>
@@ -953,9 +956,6 @@
         </mxCell>
         <mxCell id="JnQmU3idOo0CUtrQMRvo-278" value="最终产业链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93.75" y="450" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JnQmU3idOo0CUtrQMRvo-280" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
