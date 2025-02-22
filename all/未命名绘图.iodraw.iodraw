@@ -13,9 +13,6 @@
         <mxCell id="wDqWsWJCle9PfMMKVO-3-7" value="请给出{field}领域中{chain_name}产业链的{node_name}节点的下级节点，要求至少十个节点。" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wDqWsWJCle9PfMMKVO-3-4">
           <mxGeometry y="140" width="530" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wDqWsWJCle9PfMMKVO-3-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
