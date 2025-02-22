@@ -797,7 +797,7 @@
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-161" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;rotation=90;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="590" y="193" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-162" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ls3SESLtAMGWv_O3m0XQ-162" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ls3SESLtAMGWv_O3m0XQ-53" target="ls3SESLtAMGWv_O3m0XQ-161">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="420" as="sourcePoint" />
             <mxPoint x="540" y="370" as="targetPoint" />
