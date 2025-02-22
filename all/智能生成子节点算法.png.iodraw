@@ -624,7 +624,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-123" value="最终产业链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="329.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="670" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-124" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="620" y="163" width="193.75" height="149.75" as="geometry" />
@@ -793,6 +793,9 @@
             <mxPoint x="-92" y="30" as="sourcePoint" />
             <mxPoint x="-42" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ls3SESLtAMGWv_O3m0XQ-161" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B9E0A5;strokeColor=#82b366;rotation=90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="292.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
