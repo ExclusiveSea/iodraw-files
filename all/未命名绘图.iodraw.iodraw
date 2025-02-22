@@ -19,7 +19,7 @@
             <mxPoint x="580" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wDqWsWJCle9PfMMKVO-3-19" value="每层节点生成结果" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="wDqWsWJCle9PfMMKVO-3-19" value="每层节点生成结果" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="587" y="150" width="240" height="320" as="geometry" />
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-20" value="first level" style="swimlane;startSize=20;html=1;" vertex="1" parent="wDqWsWJCle9PfMMKVO-3-19">
