@@ -20,16 +20,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-12" value="每层节点生成结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="210" width="400" height="120" as="geometry" />
+          <mxGeometry x="560" y="280" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-13" value="第一层：&lt;div&gt;{&quot;n&quot;:chain_name, &quot;c&quot;:[{&quot;n&quot;:&quot;node1&quot;,&quot;c&quot;:[]},&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;{&quot;n&quot;:&quot;node2&quot;,&quot;c&quot;:[]},&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;{&quot;n&quot;:&quot;node3&quot;,&quot;c&quot;:[]}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]}&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wDqWsWJCle9PfMMKVO-3-12">
-          <mxGeometry y="30" width="400" height="30" as="geometry" />
+          <mxGeometry y="30" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-14" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wDqWsWJCle9PfMMKVO-3-12">
-          <mxGeometry y="60" width="400" height="30" as="geometry" />
+          <mxGeometry y="80" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-15" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wDqWsWJCle9PfMMKVO-3-12">
-          <mxGeometry y="90" width="400" height="30" as="geometry" />
+          <mxGeometry y="110" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
