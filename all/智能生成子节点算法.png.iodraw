@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-8" value="产业链名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="60" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-9" value="产业链所属领域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="100" width="100" height="40" as="geometry" />
