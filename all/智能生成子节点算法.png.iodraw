@@ -13,7 +13,7 @@
             <mxPoint x="220" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-4" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ls3SESLtAMGWv_O3m0XQ-4" value="节点表&lt;div&gt;节点关系表&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-5" value="上游节点列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,9 +24,6 @@
             <mxPoint x="260" y="450" as="sourcePoint" />
             <mxPoint x="310" y="400" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-7" value="" style="shape=datastore;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="222.51" y="60.01" width="99.37" height="160.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
