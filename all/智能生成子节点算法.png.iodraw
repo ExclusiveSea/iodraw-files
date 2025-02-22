@@ -7,8 +7,8 @@
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="270" width="120" height="60" as="geometry" />
+        <mxCell id="ls3SESLtAMGWv_O3m0XQ-2" value="产业链节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
