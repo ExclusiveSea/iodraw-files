@@ -615,10 +615,10 @@
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-121" value="下游节点生成Prompt模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="163" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ls3SESLtAMGWv_O3m0XQ-119">
+        <mxCell id="ls3SESLtAMGWv_O3m0XQ-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="300" as="sourcePoint" />
-            <mxPoint x="710" y="250" as="targetPoint" />
+            <mxPoint x="330" y="170" as="sourcePoint" />
+            <mxPoint x="785" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
