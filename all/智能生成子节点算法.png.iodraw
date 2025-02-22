@@ -31,16 +31,6 @@
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-9" value="产业链所属领域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ls3SESLtAMGWv_O3m0XQ-8" target="ls3SESLtAMGWv_O3m0XQ-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="210" as="sourcePoint" />
-            <mxPoint x="220" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="170" />
-              <mxPoint x="190" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-11" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="230" y="100" width="160" height="160" as="geometry" />
         </mxCell>
@@ -578,22 +568,12 @@
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-111" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ls3SESLtAMGWv_O3m0XQ-11">
           <mxGeometry x="25" y="55" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-112" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ls3SESLtAMGWv_O3m0XQ-9" target="ls3SESLtAMGWv_O3m0XQ-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="200" as="sourcePoint" />
-            <mxPoint x="190" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="130" />
-              <mxPoint x="190" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ls3SESLtAMGWv_O3m0XQ-2" target="ls3SESLtAMGWv_O3m0XQ-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="270" as="sourcePoint" />
             <mxPoint x="120" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="105" y="220" />
+              <mxPoint x="180" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
