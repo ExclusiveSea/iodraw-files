@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-11" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="333" y="110" width="160" height="160" as="geometry" />
+          <mxGeometry x="270" y="100" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;strokeColor=#FFB570;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="ls3SESLtAMGWv_O3m0XQ-11">
           <mxGeometry width="160" height="160" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C3ABD0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="ls3SESLtAMGWv_O3m0XQ-13">
           <mxGeometry x="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ls3SESLtAMGWv_O3m0XQ-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C3ABD0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="ls3SESLtAMGWv_O3m0XQ-13">
+        <mxCell id="ls3SESLtAMGWv_O3m0XQ-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C3ABD0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ls3SESLtAMGWv_O3m0XQ-13">
           <mxGeometry x="50" y="35" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ls3SESLtAMGWv_O3m0XQ-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C3ABD0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="ls3SESLtAMGWv_O3m0XQ-13">
