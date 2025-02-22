@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="290" as="sourcePoint" />
-            <mxPoint x="620" y="290" as="targetPoint" />
+            <mxPoint x="540" y="290" as="sourcePoint" />
+            <mxPoint x="580" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wDqWsWJCle9PfMMKVO-3-19" value="每层节点生成结果" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
