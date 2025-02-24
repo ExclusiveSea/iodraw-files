@@ -690,6 +690,9 @@
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-137" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontSize=18;" vertex="1" parent="EP4Nh5jVCGwG3NRTVxdQ-131">
           <mxGeometry x="-9" y="60" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-138" value="验证后内容列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="551" y="255" width="99" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
