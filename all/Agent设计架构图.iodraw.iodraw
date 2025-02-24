@@ -132,7 +132,7 @@
           <mxGeometry x="657.5" y="320" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnhWPQtrfGzaYYS4L_US-46" value="回答内容是否存在幻觉" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787" y="265" width="80" height="80" as="geometry" />
+          <mxGeometry x="787" y="265" width="103" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
