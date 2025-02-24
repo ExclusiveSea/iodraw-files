@@ -685,7 +685,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-178" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="90" width="160" height="161" as="geometry" />
+          <mxGeometry x="730" y="100" width="160" height="161" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-140" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="EP4Nh5jVCGwG3NRTVxdQ-178">
           <mxGeometry y="1" width="160" height="160" as="geometry" />
@@ -766,7 +766,7 @@
           <mxGeometry x="70" y="126" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-179" value="总内容列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="755" y="255.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="775" y="265.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-180" value="产业链节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="200" width="100" height="30" as="geometry" />
