@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F5WK79mW-zSlVZbdRw4Y-24" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="286" y="110" width="174" height="180" as="geometry" />
+          <mxGeometry x="270" y="100" width="174" height="180" as="geometry" />
         </mxCell>
         <mxCell id="F5WK79mW-zSlVZbdRw4Y-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;strokeColor=#FFB570;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="F5WK79mW-zSlVZbdRw4Y-24">
           <mxGeometry width="160" height="160" as="geometry" />
@@ -607,8 +607,8 @@
         <mxCell id="F5WK79mW-zSlVZbdRw4Y-124" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=28;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="F5WK79mW-zSlVZbdRw4Y-24">
           <mxGeometry x="25" y="55" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F5WK79mW-zSlVZbdRw4Y-23" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=none;" vertex="1" parent="F5WK79mW-zSlVZbdRw4Y-24">
-          <mxGeometry x="-64.82352941176471" y="-15.652173913043478" width="238.82352941176472" height="195.6521739130435" as="geometry" />
+        <mxCell id="F5WK79mW-zSlVZbdRw4Y-23" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276.58" y="22.23" width="310" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
