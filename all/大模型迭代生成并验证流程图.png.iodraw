@@ -857,8 +857,8 @@
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-222" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="645" y="211.25" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-224" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-224" value="验证通过的内容列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="240" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
