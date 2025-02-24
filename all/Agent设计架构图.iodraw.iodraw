@@ -20,7 +20,7 @@
           <mxGeometry x="135" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnhWPQtrfGzaYYS4L_US-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="30" height="30" as="geometry" />
+          <mxGeometry x="260" y="240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnhWPQtrfGzaYYS4L_US-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="30" height="30" as="geometry" />
@@ -32,11 +32,6 @@
             <Array as="points">
               <mxPoint x="165" y="255" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gnhWPQtrfGzaYYS4L_US-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gnhWPQtrfGzaYYS4L_US-9">
-          <mxGeometry x="0.7263" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
