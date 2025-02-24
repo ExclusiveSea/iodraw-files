@@ -571,6 +571,12 @@
         <mxCell id="IKcYwPGRE2UIG8honSWR-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.file;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="47.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IKcYwPGRE2UIG8honSWR-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="490" as="sourcePoint" />
+            <mxPoint x="180" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
