@@ -42,8 +42,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-10" value="生成Prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="202.5" width="85" height="30" as="geometry" />
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-10" value="生成Prompt模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206.25" y="202.5" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-11" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="329" y="95" width="160" height="160" as="geometry" />
