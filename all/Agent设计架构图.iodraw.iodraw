@@ -136,8 +136,8 @@
         <mxCell id="gnhWPQtrfGzaYYS4L_US-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="680" y="290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gnhWPQtrfGzaYYS4L_US-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="gnhWPQtrfGzaYYS4L_US-45" value="幻觉评分器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="320" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
