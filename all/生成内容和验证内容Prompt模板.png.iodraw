@@ -11,10 +11,10 @@
           <mxGeometry y="30" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="OOR_Zb7MsqzSH1_as1Lp-5" value="验证内容Prompt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="430" width="140" height="60" as="geometry" />
+          <mxGeometry x="150" y="430" width="310" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="OOR_Zb7MsqzSH1_as1Lp-6" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OOR_Zb7MsqzSH1_as1Lp-5">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="OOR_Zb7MsqzSH1_as1Lp-6" value="请判断下面公司是否是生产{node_name}的公司，使用下面的json格式输出，结果的内容必须是[是、否]&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OOR_Zb7MsqzSH1_as1Lp-5">
+          <mxGeometry y="30" width="310" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
