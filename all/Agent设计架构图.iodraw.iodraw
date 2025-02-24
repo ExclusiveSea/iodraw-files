@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gnhWPQtrfGzaYYS4L_US-39" value="答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="749" y="253.75" width="67" height="30" as="geometry" />
+          <mxGeometry x="749" y="270" width="67" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
