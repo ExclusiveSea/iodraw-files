@@ -131,7 +131,7 @@
         <mxCell id="gnhWPQtrfGzaYYS4L_US-45" value="幻觉评分器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="320" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gnhWPQtrfGzaYYS4L_US-46" value="生成的" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gnhWPQtrfGzaYYS4L_US-46" value="回答内容是否存在幻觉" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="787" y="265" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
