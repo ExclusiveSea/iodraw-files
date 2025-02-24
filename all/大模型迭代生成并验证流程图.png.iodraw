@@ -672,8 +672,8 @@
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-214" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=90;" vertex="1" parent="EP4Nh5jVCGwG3NRTVxdQ-131">
           <mxGeometry x="5" y="150" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-138" value="验证通过的内容列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540.5" y="280" width="69" height="30" as="geometry" />
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-138" value="验证字典" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540.5" y="288" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-139" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EP4Nh5jVCGwG3NRTVxdQ-137" target="EP4Nh5jVCGwG3NRTVxdQ-140">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
