@@ -53,7 +53,7 @@
           <mxGeometry x="35" y="86" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5WK79mW-zSlVZbdRw4Y-19" value="检索评分器筛选后的文本块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="25" y="200" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
