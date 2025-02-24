@@ -29,7 +29,7 @@
           <mxGeometry x="65" y="14" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IKcYwPGRE2UIG8honSWR-1" value="事实文本列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="65" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKcYwPGRE2UIG8honSWR-2" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="200" width="160" height="160" as="geometry" />
