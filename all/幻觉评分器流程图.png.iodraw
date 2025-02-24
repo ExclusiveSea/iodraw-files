@@ -777,8 +777,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IKcYwPGRE2UIG8honSWR-158" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="487" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="IKcYwPGRE2UIG8honSWR-158" value="事实文本断言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="180" width="77" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
