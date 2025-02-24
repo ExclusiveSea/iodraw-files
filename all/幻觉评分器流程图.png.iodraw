@@ -586,8 +586,8 @@
         <mxCell id="IKcYwPGRE2UIG8honSWR-108" value="生成答案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="345" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IKcYwPGRE2UIG8honSWR-109" value="_______&lt;div style=&quot;font-size: 12px;&quot;&gt;_______&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_______&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_______&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_______&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_______&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_______&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B9E0A5;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="80" height="100" as="geometry" />
+        <mxCell id="IKcYwPGRE2UIG8honSWR-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="100" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
