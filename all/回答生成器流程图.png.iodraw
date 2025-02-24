@@ -617,7 +617,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F5WK79mW-zSlVZbdRw4Y-125" value="___&lt;div&gt;___&lt;/div&gt;&lt;div&gt;___&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#FFF2CC;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="50" height="55" as="geometry" />
+          <mxGeometry x="350" y="70" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="F5WK79mW-zSlVZbdRw4Y-128" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F5WK79mW-zSlVZbdRw4Y-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="350" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
