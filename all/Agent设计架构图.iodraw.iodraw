@@ -163,7 +163,7 @@
         <mxCell id="gnhWPQtrfGzaYYS4L_US-51" value="回答评分器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="842.5" y="420" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gnhWPQtrfGzaYYS4L_US-52" value="回答是否对问题有帮助" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gnhWPQtrfGzaYYS4L_US-52" value="回答是否对解决问题有帮助" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="660" y="385" width="103" height="65" as="geometry" />
         </mxCell>
       </root>
