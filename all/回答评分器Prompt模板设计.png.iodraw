@@ -7,7 +7,7 @@
         <mxCell id="qxYz2IXxGZrJre_rpgC2-1" value="回答评分器模板设计" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="370" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="qxYz2IXxGZrJre_rpgC2-2" value="&lt;div&gt;你是一名评分员，评估答案是否对解决问题有用。给出一个二进制分数“是”或“否”，以表明答案是否对解决问题有用。以JSON格式提供二进制分数，其中只有一个键“分数”，没有前导码或解释。&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;答案如下：&lt;/div&gt;&lt;div&gt;{世代}&lt;/div&gt;&lt;div&gt;问题是：{问题}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="qxYz2IXxGZrJre_rpgC2-1">
+        <mxCell id="qxYz2IXxGZrJre_rpgC2-2" value="&lt;div&gt;你是一名评分员，评估答案是否对解决问题有用。给出一个二进制分数“是”或“否”，以表明答案是否对解决问题有用。以JSON格式提供二进制分数，其中只有一个键“分数”，没有前导码或解释。&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;答案如下：&lt;/div&gt;&lt;div&gt;{generation}&lt;/div&gt;&lt;div&gt;问题是：{question}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="qxYz2IXxGZrJre_rpgC2-1">
           <mxGeometry y="30" width="370" height="120" as="geometry" />
         </mxCell>
       </root>
