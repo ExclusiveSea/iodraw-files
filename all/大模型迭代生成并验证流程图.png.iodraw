@@ -784,7 +784,7 @@
           <mxGeometry x="695" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-180" value="产业链节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="-110" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-181" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EP4Nh5jVCGwG3NRTVxdQ-180" target="EP4Nh5jVCGwG3NRTVxdQ-182">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -808,6 +808,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="340" as="sourcePoint" />
             <mxPoint x="-20" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="195" />
+              <mxPoint x="30" y="175" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
