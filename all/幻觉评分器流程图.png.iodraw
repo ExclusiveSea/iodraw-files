@@ -587,7 +587,7 @@
           <mxGeometry x="134" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKcYwPGRE2UIG8honSWR-139" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="472" y="285" width="80" height="100" as="geometry" />
+          <mxGeometry x="472" y="285" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IKcYwPGRE2UIG8honSWR-125" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" edge="1" parent="IKcYwPGRE2UIG8honSWR-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -634,8 +634,8 @@
         <mxCell id="IKcYwPGRE2UIG8honSWR-136" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;" vertex="1" parent="IKcYwPGRE2UIG8honSWR-139">
           <mxGeometry width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IKcYwPGRE2UIG8honSWR-157" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IKcYwPGRE2UIG8honSWR-139">
-          <mxGeometry x="10" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="IKcYwPGRE2UIG8honSWR-157" value="生成答案断言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IKcYwPGRE2UIG8honSWR-139">
+          <mxGeometry x="10" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKcYwPGRE2UIG8honSWR-140" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="472" y="205" width="80" height="70" as="geometry" />
