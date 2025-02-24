@@ -860,7 +860,7 @@
         <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-224" value="验证通过的内容列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="240" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-225" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-225" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="EP4Nh5jVCGwG3NRTVxdQ-223" target="EP4Nh5jVCGwG3NRTVxdQ-140">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="420" as="sourcePoint" />
             <mxPoint x="760" y="370" as="targetPoint" />
