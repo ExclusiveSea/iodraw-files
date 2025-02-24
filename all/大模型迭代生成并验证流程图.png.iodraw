@@ -660,8 +660,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-129" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="361" width="60" height="30" as="geometry" />
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-129" value="验证Prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="361" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
