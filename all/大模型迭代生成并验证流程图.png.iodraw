@@ -42,8 +42,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-10" value="生层Prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="203" width="60" height="30" as="geometry" />
+        <mxCell id="EP4Nh5jVCGwG3NRTVxdQ-10" value="生成Prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="202.5" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
