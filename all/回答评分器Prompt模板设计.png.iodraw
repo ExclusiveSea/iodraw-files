@@ -11,10 +11,16 @@
           <mxGeometry y="30" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qxYz2IXxGZrJre_rpgC2-5" value="生成结果格式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="590" y="185" width="140" height="100" as="geometry" />
+          <mxGeometry x="660" y="185" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qxYz2IXxGZrJre_rpgC2-8" value="{&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;score&quot;:&quot;Yes&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="qxYz2IXxGZrJre_rpgC2-5">
           <mxGeometry y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qxYz2IXxGZrJre_rpgC2-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="490" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
