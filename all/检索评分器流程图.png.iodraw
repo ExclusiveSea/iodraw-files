@@ -145,13 +145,13 @@
         <mxCell id="h7qasxezJDkvAKniMpIR-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
+        <mxCell id="h7qasxezJDkvAKniMpIR-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry x="8" y="10" width="74" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
+        <mxCell id="h7qasxezJDkvAKniMpIR-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry x="8" y="40" width="74" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
+        <mxCell id="h7qasxezJDkvAKniMpIR-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry x="8" y="90" width="74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-39" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
