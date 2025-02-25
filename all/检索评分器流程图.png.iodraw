@@ -157,7 +157,7 @@
         <mxCell id="h7qasxezJDkvAKniMpIR-39" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry x="25" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-177" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
+        <mxCell id="h7qasxezJDkvAKniMpIR-177" value="问题变体embbeding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry x="15" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-54" value="" style="group" vertex="1" connectable="0" parent="1">
