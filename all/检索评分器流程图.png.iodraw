@@ -815,7 +815,7 @@
           <mxGeometry x="192.5" y="585" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-174" value="N个问题变体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="399" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="382" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
