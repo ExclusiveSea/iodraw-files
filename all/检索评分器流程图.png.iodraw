@@ -814,7 +814,7 @@
         <mxCell id="h7qasxezJDkvAKniMpIR-173" value="文本块列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="585" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-174" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h7qasxezJDkvAKniMpIR-174" value="N个问题变体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
