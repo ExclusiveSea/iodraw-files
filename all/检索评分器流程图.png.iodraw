@@ -151,9 +151,6 @@
         <mxCell id="h7qasxezJDkvAKniMpIR-39" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-90;" vertex="1" parent="h7qasxezJDkvAKniMpIR-40">
           <mxGeometry x="25" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="110" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="320" as="sourcePoint" />
@@ -161,6 +158,12 @@
             <Array as="points">
               <mxPoint x="290" y="380" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7qasxezJDkvAKniMpIR-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="380" as="sourcePoint" />
+            <mxPoint x="273.3333333333335" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
