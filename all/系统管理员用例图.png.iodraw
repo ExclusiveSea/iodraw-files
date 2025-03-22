@@ -23,16 +23,16 @@
           <mxGeometry x="303.5" y="342.5" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-7" value="查询用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="892.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="726.93" y="752.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-8" value="新建用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="947.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="726.93" y="807.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-9" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="997.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="726.93" y="857.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-11" value="编辑用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1057.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="726.93" y="917.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-13" value="查询产业链" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="559.2399999999999" y="290" width="80" height="30" as="geometry" />
