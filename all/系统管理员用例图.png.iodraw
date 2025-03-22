@@ -23,7 +23,7 @@
           <mxGeometry x="303.5" y="342.5" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-7" value="查询用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="892.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="730" y="892.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-8" value="新建用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="947.5" width="80" height="40" as="geometry" />
@@ -345,7 +345,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nc4gkegdAOWJ3v32_8Zy-4" value="用户权限管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="467.5" y="1105" width="120" height="30" as="geometry" />
+          <mxGeometry x="540.9300000000001" y="862.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nc4gkegdAOWJ3v32_8Zy-6" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PO_O2UsyKy-uJPG-upRq-4" target="nc4gkegdAOWJ3v32_8Zy-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
