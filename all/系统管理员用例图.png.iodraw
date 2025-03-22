@@ -68,7 +68,7 @@
           <mxGeometry x="560.93" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-74" value="智能添加节点" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="555.93" y="520" width="90" height="30" as="geometry" />
+          <mxGeometry x="555.93" y="520" width="94.07" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-75" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="PO_O2UsyKy-uJPG-upRq-70" target="PO_O2UsyKy-uJPG-upRq-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -177,10 +177,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-97" value="评估产业链分数" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="557.87" y="730" width="102.13" height="30" as="geometry" />
+          <mxGeometry x="557.87" y="730" width="112.13" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-98" value="评估节点分数" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="559.2399999999999" y="770" width="86.12" height="30" as="geometry" />
+          <mxGeometry x="559.24" y="770" width="100.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-99" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="PO_O2UsyKy-uJPG-upRq-84" target="PO_O2UsyKy-uJPG-upRq-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
