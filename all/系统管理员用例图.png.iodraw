@@ -70,13 +70,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-70" value="产业链智能互动编辑模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="254" y="454" width="140" height="40" as="geometry" />
+          <mxGeometry x="320.5" y="454" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-71" value="添加节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-72" value="删除节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="467.5" y="544" width="80" height="30" as="geometry" />
+          <mxGeometry x="640" y="534" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-73" value="修改节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="480" width="80" height="30" as="geometry" />
@@ -117,7 +117,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PO_O2UsyKy-uJPG-upRq-81" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="PO_O2UsyKy-uJPG-upRq-72" edge="1">
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-81" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="PO_O2UsyKy-uJPG-upRq-72" edge="1" source="PO_O2UsyKy-uJPG-upRq-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394" y="479" as="sourcePoint" />
             <mxPoint x="474" y="294" as="targetPoint" />
