@@ -70,24 +70,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-70" value="产业链智能互动编辑模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="284" y="474" width="140" height="40" as="geometry" />
+          <mxGeometry x="284" y="475" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-71" value="添加节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="563.5" y="419" width="80" height="30" as="geometry" />
+          <mxGeometry x="563.5" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-72" value="删除节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="563.5" y="539" width="80" height="30" as="geometry" />
+          <mxGeometry x="563.5" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-73" value="修改节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="563.5" y="499" width="80" height="30" as="geometry" />
+          <mxGeometry x="563.5" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-74" value="智能添加节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="558.5" y="459" width="90" height="30" as="geometry" />
+          <mxGeometry x="558.5" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-75" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PO_O2UsyKy-uJPG-upRq-70" target="PO_O2UsyKy-uJPG-upRq-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347.5" y="499" as="sourcePoint" />
-            <mxPoint x="387.5" y="464" as="targetPoint" />
+            <mxPoint x="347.5" y="500" as="sourcePoint" />
+            <mxPoint x="387.5" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-76" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PO_O2UsyKy-uJPG-upRq-75" vertex="1" connectable="0">
@@ -97,8 +97,8 @@
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PO_O2UsyKy-uJPG-upRq-70" target="PO_O2UsyKy-uJPG-upRq-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377.5" y="329" as="sourcePoint" />
-            <mxPoint x="417.5" y="294" as="targetPoint" />
+            <mxPoint x="377.5" y="330" as="sourcePoint" />
+            <mxPoint x="417.5" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-78" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PO_O2UsyKy-uJPG-upRq-77" vertex="1" connectable="0">
@@ -108,8 +108,8 @@
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PO_O2UsyKy-uJPG-upRq-70" target="PO_O2UsyKy-uJPG-upRq-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347.5" y="499" as="sourcePoint" />
-            <mxPoint x="387.5" y="464" as="targetPoint" />
+            <mxPoint x="347.5" y="500" as="sourcePoint" />
+            <mxPoint x="387.5" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-80" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PO_O2UsyKy-uJPG-upRq-79" vertex="1" connectable="0">
@@ -119,8 +119,8 @@
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-81" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="PO_O2UsyKy-uJPG-upRq-72" edge="1" source="PO_O2UsyKy-uJPG-upRq-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="357.5" y="499" as="sourcePoint" />
-            <mxPoint x="437.5" y="314" as="targetPoint" />
+            <mxPoint x="357.5" y="500" as="sourcePoint" />
+            <mxPoint x="437.5" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-82" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PO_O2UsyKy-uJPG-upRq-81" vertex="1" connectable="0">
@@ -128,7 +128,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PO_O2UsyKy-uJPG-upRq-83" value="产业链节点内容细化模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PO_O2UsyKy-uJPG-upRq-83" value="产业链节点内容细化" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="594" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PO_O2UsyKy-uJPG-upRq-84" value="产业链评估模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
