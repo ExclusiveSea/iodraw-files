@@ -38,7 +38,7 @@
           <mxGeometry x="414" y="290" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-22" value="产业链智能预生成算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="414" y="340" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="340" width="146" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-23" value="智能添加节点提示设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="414" y="390" width="134" height="30" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry x="180" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-52" value="产业链生成及编辑页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="414" y="185" width="134" height="30" as="geometry" />
+          <mxGeometry x="414" y="185" width="146" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5saznzGKYcE0H0AA1qR-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="s5saznzGKYcE0H0AA1qR-13" target="s5saznzGKYcE0H0AA1qR-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
