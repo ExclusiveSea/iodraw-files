@@ -46,16 +46,16 @@
           <mxGeometry x="246" y="464" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bP5y7fIsurZIOc2GUaOD-20" value="添加节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="535" y="370" width="80" height="30" as="geometry" />
+          <mxGeometry x="535" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bP5y7fIsurZIOc2GUaOD-21" value="删除节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bP5y7fIsurZIOc2GUaOD-22" value="修改节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="535" y="479" width="80" height="30" as="geometry" />
+          <mxGeometry x="535" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bP5y7fIsurZIOc2GUaOD-23" value="智能添加节点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="449" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bP5y7fIsurZIOc2GUaOD-24" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bP5y7fIsurZIOc2GUaOD-19" target="bP5y7fIsurZIOc2GUaOD-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
