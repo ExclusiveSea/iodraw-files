@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-3" value="是否存在目标产业链" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="120" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="120" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y2TK-STUWdFAO3x5S_sY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y2TK-STUWdFAO3x5S_sY-3" target="Y2TK-STUWdFAO3x5S_sY-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
