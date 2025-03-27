@@ -155,7 +155,7 @@
           <mxGeometry x="70" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-64" value="Data Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" parent="HuYtOXSLz6cHpRmUJyYL-65" vertex="1">
-          <mxGeometry x="50" width="65" height="30" as="geometry" />
+          <mxGeometry x="52.5" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-68" value="Worker Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="230" y="410" width="140" height="30" as="geometry" />
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-86" value="Object Storage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="523" y="600" width="223" height="60" as="geometry" />
+          <mxGeometry x="590" y="620" width="156" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HuYtOXSLz6cHpRmUJyYL-86" target="HuYtOXSLz6cHpRmUJyYL-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
