@@ -122,7 +122,7 @@
           <mxGeometry x="722" y="205" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-54" value="LangChain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="542" y="245" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="245" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-55" value="LangGraph" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="632" y="245" width="78" height="30" as="geometry" />
