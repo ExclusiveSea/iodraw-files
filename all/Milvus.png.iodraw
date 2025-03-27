@@ -155,7 +155,7 @@
           <mxGeometry x="70" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-64" value="Data Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" parent="HuYtOXSLz6cHpRmUJyYL-65" vertex="1">
-          <mxGeometry x="55" width="65" height="30" as="geometry" />
+          <mxGeometry x="50" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-68" value="Worker Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="230" y="410" width="140" height="30" as="geometry" />
