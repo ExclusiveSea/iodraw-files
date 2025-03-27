@@ -29,7 +29,7 @@
           <mxGeometry x="-180" y="350" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-13" value="产业链智能预生成模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="138" y="350" width="188.75" height="40" as="geometry" />
+          <mxGeometry x="98.75" y="350" width="188.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-15" value="产业链智能互动编辑模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="350" width="205" height="40" as="geometry" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-31" value="产业链管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-6" y="350" width="132.5" height="40" as="geometry" />
+          <mxGeometry x="-45" y="350" width="132.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" target="iwjTnjZ5OjpotJwd9LH3-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
