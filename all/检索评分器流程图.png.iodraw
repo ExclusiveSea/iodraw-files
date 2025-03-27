@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-58" value="原始问题embbeding" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="380" y="120" width="85" height="38.5" as="geometry" />
+          <mxGeometry x="382.5" y="126.25" width="85" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="h7qasxezJDkvAKniMpIR-58" target="h7qasxezJDkvAKniMpIR-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -795,7 +795,7 @@
             <mxPoint x="90" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7qasxezJDkvAKniMpIR-168" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="h7qasxezJDkvAKniMpIR-68" vertex="1">
+        <mxCell id="h7qasxezJDkvAKniMpIR-168" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;LLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="h7qasxezJDkvAKniMpIR-68" vertex="1">
           <mxGeometry x="25" y="55" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h7qasxezJDkvAKniMpIR-171" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="h7qasxezJDkvAKniMpIR-63" target="h7qasxezJDkvAKniMpIR-78" edge="1">
