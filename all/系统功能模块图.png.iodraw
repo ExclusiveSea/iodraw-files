@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-25" value="网络资源构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-145" y="445" width="35" height="140" as="geometry" />
+          <mxGeometry x="-150" y="445" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-26" value="本地知识构建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-105" y="445" width="35" height="140" as="geometry" />
+          <mxGeometry x="-110" y="445" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-27" value="产业链智能生成" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="445" width="35" height="140" as="geometry" />
