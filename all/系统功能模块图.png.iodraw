@@ -26,7 +26,7 @@
           <mxGeometry x="256.25" y="250" width="287.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-12" value="知识库构建模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="350" width="125" height="40" as="geometry" />
+          <mxGeometry x="-180" y="350" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-13" value="产业链智能预生成模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="110" y="350" width="188.75" height="40" as="geometry" />
