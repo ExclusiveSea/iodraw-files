@@ -137,7 +137,7 @@
           <mxGeometry x="70" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-66" value="Index Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" parent="HuYtOXSLz6cHpRmUJyYL-57" vertex="1">
-          <mxGeometry x="55" width="60" height="30" as="geometry" />
+          <mxGeometry x="47.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-65" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="560" y="460" width="170" height="70" as="geometry" />
