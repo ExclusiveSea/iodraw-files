@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="290" y="440" width="660" height="100" as="geometry" />
+          <mxGeometry x="320" y="440" width="630" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-51" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="373" y="460" width="170" height="70" as="geometry" />
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-86" value="Object Storage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="478.5" y="600" width="223" height="60" as="geometry" />
+          <mxGeometry x="523" y="600" width="223" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HuYtOXSLz6cHpRmUJyYL-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HuYtOXSLz6cHpRmUJyYL-86" target="HuYtOXSLz6cHpRmUJyYL-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
