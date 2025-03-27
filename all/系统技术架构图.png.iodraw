@@ -92,7 +92,7 @@
           <mxGeometry x="321" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-69" value="Python算法处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="5K8OPjvH2g7QSLGk_0w5-65" vertex="1">
-          <mxGeometry x="540" y="80" width="110" height="30" as="geometry" />
+          <mxGeometry x="535" y="80" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5K8OPjvH2g7QSLGk_0w5-70" value="结构化数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="5K8OPjvH2g7QSLGk_0w5-65" vertex="1">
           <mxGeometry x="185" y="210" width="100" height="30" as="geometry" />
