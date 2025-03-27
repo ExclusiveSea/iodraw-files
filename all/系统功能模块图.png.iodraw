@@ -123,13 +123,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-34" value="产业链管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-26.25" y="445" width="35" height="140" as="geometry" />
+          <mxGeometry x="-36.25" y="445" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-35" value="产业链版本管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="18.75" y="445" width="35" height="140" as="geometry" />
+          <mxGeometry x="8.75" y="445" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-36" value="产业链权限指派" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="63.75" y="445" width="35" height="140" as="geometry" />
+          <mxGeometry x="53.75" y="445" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iwjTnjZ5OjpotJwd9LH3-37" value="产业链节点编辑" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="445" width="35" height="140" as="geometry" />
@@ -170,7 +170,7 @@
             <mxPoint x="-10" y="610" as="targetPoint" />
             <Array as="points">
               <mxPoint x="36" y="410" />
-              <mxPoint x="-9" y="410" />
+              <mxPoint x="-19" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
