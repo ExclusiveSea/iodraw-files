@@ -16,6 +16,9 @@
         <mxCell id="WO4qOClU3Ni1DJz5xNML-6" value="答案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="110" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WO4qOClU3Ni1DJz5xNML-7" value="事实文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
