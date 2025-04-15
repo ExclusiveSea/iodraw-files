@@ -52,10 +52,16 @@
         <mxCell id="zZwe6JUb5iirRZW5zhCd-12" value="得分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZwe6JUb5iirRZW5zhCd-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zZwe6JUb5iirRZW5zhCd-13" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zZwe6JUb5iirRZW5zhCd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="270" as="sourcePoint" />
             <mxPoint x="280" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="270" />
+              <mxPoint x="250" y="271" />
+              <mxPoint x="281" y="271" />
+              <mxPoint x="281" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
