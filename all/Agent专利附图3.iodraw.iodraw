@@ -94,6 +94,9 @@
             <mxPoint x="354" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WO4qOClU3Ni1DJz5xNML-24" value="得分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
