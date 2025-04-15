@@ -88,6 +88,12 @@
         <mxCell id="WO4qOClU3Ni1DJz5xNML-22" value="S540" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WO4qOClU3Ni1DJz5xNML-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="570" as="sourcePoint" />
+            <mxPoint x="330" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
