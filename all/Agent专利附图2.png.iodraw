@@ -7,14 +7,14 @@
         <mxCell id="zZwe6JUb5iirRZW5zhCd-1" value="根据回答生成问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zZwe6JUb5iirRZW5zhCd-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zZwe6JUb5iirRZW5zhCd-1">
+        <mxCell id="zZwe6JUb5iirRZW5zhCd-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zZwe6JUb5iirRZW5zhCd-3" target="zZwe6JUb5iirRZW5zhCd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="354" y="150" as="sourcePoint" />
             <mxPoint x="240" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zZwe6JUb5iirRZW5zhCd-3" value="检索后的文本块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="324" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
