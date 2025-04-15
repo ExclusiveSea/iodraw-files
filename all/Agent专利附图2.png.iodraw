@@ -34,7 +34,7 @@
         <mxCell id="zZwe6JUb5iirRZW5zhCd-8" value="用户问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="195" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZwe6JUb5iirRZW5zhCd-9" value="根据回答生成问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZwe6JUb5iirRZW5zhCd-9" value="计算余弦相似度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
