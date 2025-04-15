@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zZwe6JUb5iirRZW5zhCd-3" value="检索后的文本块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
