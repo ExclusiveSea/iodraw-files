@@ -107,8 +107,14 @@
             <mxPoint x="170" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uz2wKeNbz4sqAVhoQbJr-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Uz2wKeNbz4sqAVhoQbJr-25" value="问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz2wKeNbz4sqAVhoQbJr-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uz2wKeNbz4sqAVhoQbJr-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="180" as="sourcePoint" />
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
