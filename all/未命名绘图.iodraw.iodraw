@@ -89,7 +89,7 @@
           <mxGeometry x="540" y="475" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5jqSEpEWozshMLTFxYqn-17" value="记录Markdown文档id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="475" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
