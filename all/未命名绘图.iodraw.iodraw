@@ -63,8 +63,8 @@
             <mxPoint x="390" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jqSEpEWozshMLTFxYqn-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="5jqSEpEWozshMLTFxYqn-13" value="查找网页详细内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="525" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
