@@ -54,8 +54,8 @@
         <mxCell id="5jqSEpEWozshMLTFxYqn-10" value="使用css格式获取网页链接、标题、发布时间、简要内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5jqSEpEWozshMLTFxYqn-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="5jqSEpEWozshMLTFxYqn-11" value="转化为Markdown格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="460" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
